@@ -13,6 +13,30 @@ Another cool feature we want to bring to life is the ability for members to sche
 
 All help is welcomed!
 
+## Tools for collaboration
+- [waffle.io](https://waffle.io/fcc-community/fcc-community/join)
+
+## Guidelines for collaboration
+**Please follow the following guidelines if you want to collaborate.** These guidelines will be updated and changed as needed.
+- If you want to help with an issue, assign yourself to it. There is no limit to the number of assignees, as long as the assignees are willing to:
+  - communicate with each other about their ideas and progress,
+  - share ideas and help one another,
+  - team up to solve the issue,
+  - and lastly, be willing to 
+
+- If you want to open an issue, please be specific about it. 
+  - Is it a bug? If so, please try to explained how it happened, and under what circumstances. 
+  - Is there a feature you'd like added to the project? Please try to explain the benefits of it.
+  - Is there something that needs improvement? What are your suggestions for improvement?
+
+## Please do experiment
+
+Even if you don't feel confident enough to collaborate or assign yourself to an issue, you are encouraged to fork this project and:
+  - Try to solve issues yourself.
+  - Change or add styles.
+  - Try to add new features.
+  - Just experiment!
+
 ___
 
 [Slack Channel](https://fccbloomington-normal.slack.com/) | [issues in waffle](https://waffle.io/fcc-community/fcc-community/join) | [gitter channel](https://gitter.im/fcc-community/fcc-community)
